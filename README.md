@@ -248,12 +248,18 @@ The purpose of this analysis is to evaluate coffee sales performance across regi
   - Low demand months indicate opportunities for new campaigns or bundling offers to maintain consistent sales.
 
 #### Recommendations
-- Expand marketing efforts for light roasts and 2.5kg sizes, as these resonate strongly with customer preferences.
-- Focus on loyalty programmes for top customers and explore cross-selling opportunities.
-- Conduct regional marketing campaigns in Ireland and the UK to increase their contribution to total sales.
-- Align inventory and supply chain strategies with coffee type trends, seasonal demand and product size preferences.
-  
+   - Expand marketing efforts for light roasts and 2.5kg sizes, as these resonate strongly with customer preferences.
+   - Focus on loyalty programmes for top customers and explore cross-selling opportunities.
+   - Conduct regional marketing campaigns in Ireland and the UK to increase their contribution to total sales.
+   - Align inventory and supply chain strategies with coffee type trends, seasonal demand and product size preferences.
+
 - Link to Project: Excel Sales Data Analysis []
+
+     ### Snapshot of Dashboard
+
+![image](https://github.com/user-attachments/assets/19e84a41-0dc3-4041-9395-e254193cdc15)
+
+
 
 ## 4. Contact
 Feel free to reach out if you have questions or would like to collaborate:
