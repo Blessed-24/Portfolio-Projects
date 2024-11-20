@@ -4,14 +4,14 @@ Welcome to my data analysis portfolio, where I present projects that demonstrate
 
 ## Table of Contents
 1. [About the Portfolio](#about-the-portfolio)
-3. [Tools Used](#tools-used)
-4. [Featured Projects](#featured-projects)
-   - [Project 1: SQL Data Cleaning on Global Layoffs](#project-1:-sql-data-cleaning-on-global-layoffs)
-   - [Project 2: SQL Data Exploration on Global Layoffs](#project-2:-sql-data-exploration-on-global-layoffs)
+2. [Tools Used](#tools-used)
+3. [Featured Projects](#featured-projects)
+   - [Project 1: SQL Data Cleaning of Global Layoffs](#project-1:-sql-data-cleaning-of-global-layoffs)
+   - [Project 2: SQL Data Exploration of Global Layoffs](#project-2:-sql-data-exploration-of-global-layoffs)
    - [Project 3: Power BI Dashboard on Hospital Waitlist](#project-3:-power-bi-dashboard-on-hospital-waitlist)
    - [Project 4:  Data Professional Survey Power BI Dashboard](project-4:-data-professional-survey-power-bi-dashboard)
    - [Project 5: Excel Sales Data Analysis](#project-5:-excel-sales-data-analysis)
-5. [Contact](#contact)
+4. [Contact](#contact)
 
 
 ## About the Portfolio
@@ -24,14 +24,14 @@ Welcome to my data analysis portfolio, where I present projects that demonstrate
 
 
 ## Tools Used
-- SQL, Power BI queries and Excel: Data cleaning
+- SQL, Power BI query editor and Excel: Data cleaning
 - SQL queries and Excel: Data exploration
 - Power BI and Excel: Data visualization
 
 
 ## Featured Projects
 
-### Project 1: SQL Data Cleaning on Global Layoffs
+### Project 1: SQL Data Cleaning of Global Layoffs
 
 #### Objective 
 Perform data cleaning on a dataset of global layoffs for the period 2020 - 2024.
@@ -52,17 +52,18 @@ SQL: For data cleaning.
   - Handled zero, blank and null values to ensure accurate analysis
   - Standardised column names and formats.
    
-- Link to the project: SQL Data Cleaning on Global Layoffs []
+- Link to the project: SQL Data Cleaning of Global Layoffs []
 
 
 
-### Project 2: SQL Data Exploration on Global Layoffs
+### Project 2: SQL Data Exploration of Global Layoffs
 
 #### Objective 
 This project analyses global layoff trends from Covid 19 to the present to gain insight into the industries, companies, countries, locations and years most affected by layoffs. The goal is to demonstrate my ability to work with real data, clean it effectively and extract meaningful insights for decision making.
 
 #### Data Source
-- The dataset was sourced from Kaggle. Link [https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022]
+- The dataset was sourced from Kaggle.
+- Link [https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022]
 
 #### Tools Used
 SQL: For data querying, and analysis.
@@ -82,13 +83,19 @@ SQL: For data querying, and analysis.
 - **Countries Most Affected**
   - The United States, India, Germany, Sweden and the United Kingdom were the countries most affected by redundancies.
 
+    ![image](https://github.com/user-attachments/assets/c9b273b5-cafa-4e5d-b3c0-9562142b8606)
+
 - **Regional Highlights**
   - The San Francisco Bay Area experienced the highest number of layoffs, followed by Seattle, New York City, Bengaluru (India) and Austin.
   - This highlights the vulnerability of major technology hubs and economically diverse regions.
 
+    ![image](https://github.com/user-attachments/assets/52e60a7d-01e0-4a5c-9d69-93c7db1c8e37)
+
 - **Industry and Company Impact**
   - The transportation sector accounted for the highest number of layoffs, with a notable spike in 2024.
   - Amazon recorded the most layoffs by a single company, cutting 18,000 jobs.
+ 
+    ![image](https://github.com/user-attachments/assets/0ab0db20-2999-4f17-8928-9f1c82d16cfc) ![image](https://github.com/user-attachments/assets/dc8a1e62-852e-40f4-a817-82e96a7aa042)
 
 - **Layoff Trends by Year**
   - **2020:** A significant increase of 60,960 layoffs, driven by the COVID-19 pandemic.
@@ -96,8 +103,10 @@ SQL: For data querying, and analysis.
   - **2022:** Layoffs surge to 126,450, reflecting ongoing economic challenges.
   - **2023:** Further increase to 158,363, suggesting lingering effects of the pandemic on the workforce.
   - **2024 (as of October):** Marked slowdown with layoffs at 95,225, signalling gradual stabilization.
+ 
+    ![image](https://github.com/user-attachments/assets/24ca6c99-58bd-47d5-b8d1-61a50df2af5b)
 
-- Link to Project: SQL Data Exploration on Global Layoffs []
+- Link to Project: SQL Data Exploration of Global Layoffs []
 
 
 
@@ -111,7 +120,7 @@ Hopistal "Waitlist_data.csv" file.
 
 #### Processes
 1. Data loading
-2. Data cleaning: Cleaned and normalized data using power queries.
+2. Data transformation: Cleaned and normalized data using power query editor.
 
 - **Key Highlights**
   - Removed duplicates.
@@ -145,8 +154,14 @@ Hopistal "Waitlist_data.csv" file.
     - Paediatric cardiology
   - **Action:**
     - Implement streamlined scheduling and resource allocation for these high demand areas.
-
+      
 - Link to Project: Power BI Hospital Waitlist Dashboard []
+
+   
+  
+     ### Snapshot of Dashboard
+
+![image](https://github.com/user-attachments/assets/5dde3afe-d8a8-4048-a076-79a921c1647c)
 
 
   
@@ -160,7 +175,7 @@ Data professional "survey_data.csv" file.
 
 #### Processes
 1. Data loading
-2. Data cleaning: Cleaned and normalized data using power queries.
+2. Data transformation: Cleaned and normalized data using power query editor.
 - **Key Highlights**
   - Removed duplicates.
   - Handled blank and null values to ensure accurate analysis
@@ -185,6 +200,11 @@ Data professional "survey_data.csv" file.
   - Minimal gender disparity, with salaries distributed almost equally between women (51.15%) and men (48.85%), reflecting progress in equal pay practices.
 
 - Link to Project: Data Professional Survey Power BI Dashboard []
+
+
+     ### Snapshot of Dashboard
+
+![image](https://github.com/user-attachments/assets/65e6d881-c33f-4f7c-880c-434fe9fa44f9)
 
 
 
